@@ -19,7 +19,7 @@
     "headroom.js": "0.9.4",
     "history": "^4.10.1",
     "moment": "2.24.0",
-    "node-sass": "4.12.0",
+    "node-sass": "4.13.1",
     "nouislider": "13.1.5",
     "react": "^16.12.0",
     "react-datetime": "2.16.3",
